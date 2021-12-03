@@ -3,7 +3,7 @@ This is my Code for the [Advent of Code](https://adventofcode.com/) Challange 21
 ## Days I Solved (⭐️ = I solved Part 1; ⭐️⭐️ = I sloved Part 1 & 2)
 Day 01 : ⭐️⭐️
 Day 02 : ⭐️⭐️
-Day 03 :
+Day 03 : ⭐️⭐️
 Day 04 :
 Day 05 :
 Day 06 :
