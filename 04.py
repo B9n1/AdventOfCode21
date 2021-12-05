@@ -18,10 +18,6 @@ class player:
 
     def getScore(self, number):
         self.board = self.board.astype('int')
-        #print(self.board)
-        #print(number)
-        #print(self.count)
-        #print(int(self.board.sum())+self.count)
         result = (int(self.board.sum())+self.count) * int(number)
 
         return int(result)
